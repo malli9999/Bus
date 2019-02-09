@@ -29,7 +29,7 @@ namespace Web.Controllers
             return Content(h, "text/html");
         }
 
-        public IActionResult View()
+        public IActionResult Wire()
         {
             
             return View();
